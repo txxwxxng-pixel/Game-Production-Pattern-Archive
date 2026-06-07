@@ -33,6 +33,15 @@ Core focus:
 7. Survivors-like wave and upgrade systems
 8. Steam release and store asset workflow
 
+## Archive entries
+
+- `archive/2026-06-08-runtime-combat-hitbox-vfx-patterns.md`
+  - Runtime animation state flow, attack-object combat, hitbox/hurtbox debug overlays, impact profiles, and AI sprite-sheet QC.
+- `archive/2026-06-08-survivors-survival-crafting-loop-patterns.md`
+  - Survivors-like run director, spawn budget, upgrade tag system, survival/crafting loop, and day/night hybrid defense structure.
+- `archive/2026-06-08-steam-release-workflow-patterns.md`
+  - Steam store/build review split, branch/channel model, screenshot planning, demo scope, launch readiness matrix, and Codex task seeds.
+
 ## First reference cluster
 
 - Silksong / Hollow Knight / Metroidvania-style runtime combat
