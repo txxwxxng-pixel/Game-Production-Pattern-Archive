@@ -85,6 +85,11 @@ Core focus:
 - `archive/2026-06-10-steam-content-factory-readiness.md`
   - Steam launch readiness as sustainable content, QA, patch, save, and release factory readiness.
 
+### Reference refresh entries
+
+- `archive/2026-06-10-reference-refresh-ops-patterns.md`
+  - Fresh practical-source refresh covering animation event registries, hitbox/hurtbox authoring assets, VFX/game-feel priority routing, AI asset lineage and Steam trust, survivors-like synergy ledgers, survival/crafting resource ledgers, and Steam branch promotion manifests.
+
 ## Core library
 
 - `docs/core-library/production-pattern-index.md`
