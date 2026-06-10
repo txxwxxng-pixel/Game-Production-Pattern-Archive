@@ -89,6 +89,8 @@ Core focus:
 
 - `archive/2026-06-10-reference-refresh-ops-patterns.md`
   - Fresh practical-source refresh covering animation event registries, hitbox/hurtbox authoring assets, VFX/game-feel priority routing, AI asset lineage and Steam trust, survivors-like synergy ledgers, survival/crafting resource ledgers, and Steam branch promotion manifests.
+- `archive/2026-06-10-reference-refresh-steam-indie-workflows-02.md`
+  - Fresh workflow refresh covering timeline hook adapters, combat-box scrub tooling, impact feel stacks, reproducible 2D art and bridge animation, AI/code provenance gates, survivors-like content multiplication, survival/crafting resource pressure, and Steam asset/review gates.
 
 ## Core library
 
