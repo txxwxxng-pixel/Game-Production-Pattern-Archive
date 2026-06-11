@@ -91,6 +91,8 @@ Core focus:
   - Fresh practical-source refresh covering animation event registries, hitbox/hurtbox authoring assets, VFX/game-feel priority routing, AI asset lineage and Steam trust, survivors-like synergy ledgers, survival/crafting resource ledgers, and Steam branch promotion manifests.
 - `archive/2026-06-10-reference-refresh-steam-indie-workflows-02.md`
   - Fresh workflow refresh covering timeline hook adapters, combat-box scrub tooling, impact feel stacks, reproducible 2D art and bridge animation, AI/code provenance gates, survivors-like content multiplication, survival/crafting resource pressure, and Steam asset/review gates.
+- `archive/2026-06-10-reference-refresh-steam-indie-workflows-03.md`
+  - Practical source refresh covering toolchain-first production, runtime animation contracts, hitbox/hurtbox authoring assets, impact profile game-feel routing, AI asset provenance/QC gates, animation frame factories, survivors-like interaction graphs, survival biome contracts, Steam release artifacts, and template/debug production memory.
 
 ## Core library
 
